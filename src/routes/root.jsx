@@ -14,7 +14,7 @@ export default function Root() {
         <h1>Welcome Traveler, have a seat and listen to the tales of heroes past.</h1>
       </div>
       <div>
-        <h3>Choose an adventure to hear.</h3><br/>
+       <br/><h3>Choose an adventure to hear.</h3><br/>
       </div>
       <div className='img-container'>
         <p>Till Undeath Do Us Part</p>
