@@ -1,0 +1,33 @@
+body {
+    font-family: fantasy;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.header {
+    color:antiquewhite;
+    font-size:x-large;
+    padding: .5em;
+    border: 2px solid rgba(255, 235, 122, 0.524);
+    margin-bottom: 1em;
+    border-radius: .5em;
+}
+
+.accordion-body {
+    background-color: rgba(194, 131, 30, 0.525);
+    word-spacing: .7em;
+    text-align: left;
+}
+
+.accordion-button {
+    background-color: rgba(167, 147, 44, 0.67) !important;
+  }
+  
+  .accordion-button:focus {
+    box-shadow: none;
+    color: rgba(209, 50, 2, 0.803);
+    font-weight: 900;
+  }
+.accordion-button {
+    padding: auto;
+}
